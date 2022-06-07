@@ -1,0 +1,14 @@
+#Informacion sobre chmod
+
+
+Se crea un archivo pruebaCHMOD.txt y a ese le vamos a cambiar los permisos.
+
+chmod u+x pruebaCHMOD.txt
+
+chmod u-x pruebaCHMOD.txt
+
+rwx ugo 
+
+READ WRITE EXECUTE ----- USER GROUP OTHERS
+
+
