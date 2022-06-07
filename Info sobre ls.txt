@@ -1,0 +1,15 @@
+#Informacion sobre ls 
+
+ls -l [a-z].txt
+
+
+ls he*.py
+
+ls draft-???.txt --- ls h???.py
+
+rm -rf *.out
+
+alias rm='rm -i'
+
+gcc *.c
+
